@@ -9,12 +9,16 @@ Inspired by Genki Hagata's [article](https://magenta.as/a-month-of-hello-world-4
  - Django
 
  #### Part - 2:  Mobile App Developemnt
+ - Firebsae
+     * SOurce: udacity - Firebase in a weekend
  - TypeScript
  - Angular2 + TypeSript
  - Ionic2
  - React.js
  - React Native
- - Android Studio (Java)
+ - Android Studio (Java) 
+    * Source: udacity or Google Developer Training
+    * Certification:  https://goo.gl/HDTnF3
  - Swift3 / Objective-C
 
 #### Part - 3: AI/ML 
@@ -23,4 +27,5 @@ Inspired by Genki Hagata's [article](https://magenta.as/a-month-of-hello-world-4
  - Tensorflow
  - Keras
  - Messenger Bot
- 
+ - ML Engineer Udacity Nanodegree
+     * Aim: Complete within the first free week trial
