@@ -8,9 +8,9 @@ Inspired by Genki Hagata's [article](https://magenta.as/a-month-of-hello-world-4
  - Deployment in Heroku
  - Django
 
- #### Part - 2:  Mobile App Developemnt
+#### Part - 2:  Mobile App Developemnt
  - Firebsae
-     * SOurce: udacity - Firebase in a weekend
+     * Source: udacity - Firebase in a weekend
  - TypeScript
  - Angular2 + TypeSript
  - Ionic2
